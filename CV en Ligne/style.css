@@ -1,0 +1,155 @@
+.page{
+    width: 750px;
+    margin: auto;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    padding: 40px;
+    border: 5px solid yellowgreen;
+    border-radius: 10px;
+    box-shadow: 2px 4px 3px black;
+    background-color: #ffffff;
+}
+
+.infophoto{
+    height: 250;
+}
+
+.info{
+    float: left;
+}
+
+.photo{
+    float: right;
+}
+
+.section{
+    margin-bottom: 70px;
+    text-align: justify;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sec-droite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+
+.foot-droite{
+    margin-left: 150px;
+    margin-top: 37px;
+}
+.foot-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 16px;
+}
+strong{
+    font-size: 26px;
+}
+
+h2{
+    font-size: 28px;
+    color: orange;
+    text-transform: uppercase;
+    border-bottom: 3px solid orangered ;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+#forma-gauche{
+    margin-bottom: 37px;
+}
+
+#exp-gauche{
+    margin-top: 32;
+}
+
+body{
+    background-color: #cccccc;
+}
+
+.section:hover{
+    color: goldenrod;
+}
+
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #f8f8f8;0
+  }
+  
+  input[type=submit] {
+    width: 50%;
+    background-color: red;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color: gold;
+  }
+
+  footer.div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+  }
+
+
+  textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: red;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+    
+  }
+  
+  li a:hover {
+    background-color:blue;
+  }
+
+  header{
+    width: 850px;
+    margin: auto;
+  }
